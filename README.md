@@ -1,3 +1,5 @@
+![Capa do Projeto](assets/Capa-MarcoDasIAs.png)
+
 🤖 AI Study Guide: Brazil's AI Bill (PL 2338/2023)
 
 
