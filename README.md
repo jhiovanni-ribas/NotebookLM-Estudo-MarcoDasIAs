@@ -14,6 +14,17 @@ Study Objectives:
     - Understand the Risk Classification framework (Excessive vs. High Risk).
     - Analyze the civil liability and governance obligations for AI agents.
     - Map out the fundamental rights of individuals affected by AI systems.
+    - Perform a comparative analysis with the EU AI Act (2024).
+
+📂 Project Ecosystem (Deliverables)
+To ensure a light and functional repository while maintaining methodological transparency, this project includes:
+
+    - Full Prompt Engineering Guide (PDF): Detailed documentation of the AI interaction strategy, including 
+    Master Prompts and the "Scars" (troubleshooting) section.
+    - Executive Presentation (PDF): A high-level slide deck generated via Gamma App, applying Legal Design 
+    principles for stakeholders.
+    - Processing Evidence (Images): Screenshots of the NotebookLM interface, proving the generation of bilingual 
+    technical podcasts (Audio Overviews) and source processing.
 
 
 📚 Sources Curated
@@ -23,6 +34,7 @@ To feed the NotebookLM, I selected 4 key open-source documents:
     2. CTIA Committee Report (Internal Commission on Artificial Intelligence).
     3. AI & Data Protection Guide (National Data Protection Authority - ANPD).
     4. Technical Analysis: Economic Impacts of AI Regulation (Sectorial Study).
+    5. Comparative Reference: EU AI Act (Official Text 2024).
 
 
 🧠 Prompt Engineering & "Scars"
