@@ -1,4 +1,4 @@
-![Capa do Projeto](https://github.com/jhiovanni-ribas/NotebookLM-Estudo-MarcoDasIAs/blob/main/assets/Capa-marco.png?raw=true)
+![Capa do Projeto](assets/Capa-marco.png)
 
 
 🤖 AI Study Guide: Brazil's AI Bill (PL 2338/2023)
